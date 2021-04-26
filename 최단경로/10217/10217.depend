@@ -1,4 +1,8 @@
 # depslib dependency file v1.0
-1619343190 source:c:\users\kas12\onedrive\바탕 화면\qorwns\최단경로\10217\main.cpp
+1619447505 source:c:\users\kas12\onedrive\바탕 화면\qorwns\최단경로\10217\main.cpp
 	<iostream>
+	<vector>
+	<queue>
+	<set>
+	<utility>
 
