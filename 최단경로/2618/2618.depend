@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619961603 source:c:\users\kas12\onedrive\바탕 화면\qorwns\최단경로\2618\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+	<stack>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620134378 source:c:\users\kas12\onedrive\바탕 화면\qorwns\최단거리 역추적\13913\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+
