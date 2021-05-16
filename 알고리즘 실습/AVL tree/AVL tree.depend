@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620749564 source:c:\users\kas12\onedrive\바탕 화면\qorwns\알고리즘 실습\avl tree\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+
